@@ -1,0 +1,24 @@
+.TableHead-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+.table-head-value {
+    font-weight: 600;
+    width: 100%;
+    padding: 0.3em;
+    display: flex;
+    justify-content: space-evenly;
+}
+.row {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 9px;
+    border-bottom: 1px solid #ccc;
+}
+.table {
+    width: 100%;
+}
+.table-data-wrapper {
+    padding: 4em;
+}
